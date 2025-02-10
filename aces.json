@@ -1,0 +1,21 @@
+﻿{
+	"custom": {
+		"conditions": [
+
+		],
+		"actions": [
+			{
+				"id": "set-url",
+				"scriptName": "SetURL",
+				"highlight": false,
+				"params": 
+				[
+					{ "id": "url", "type": "string" }
+				]				
+			}
+		],
+		"expressions": [
+
+		]
+	}
+}

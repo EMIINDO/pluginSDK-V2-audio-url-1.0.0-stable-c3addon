@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<svg width="23.999999999999996" height="23.999999999999996" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <defs xmlns="http://www.w3.org/2000/svg">
+  <style>.cls-1{fill:#0f768c;}</style>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <path class="cls-1" clip-rule="evenodd" d="m1.316364,10.081654l0,4.472596l2.981731,0l3.727164,3.727164l0,-11.926923l-3.727164,3.727164l-2.981731,0l0,0z" fill="black" fill-rule="evenodd" id="svg_1"/>
+  <text fill="#0f768c" font-family="Fantasy" font-size="24" font-weight="normal" id="svg_2" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(0.39787 0 0 0.39787 -39.9486 -33.6967)" x="140.137674" xml:space="preserve" y="126.380543">URL</text>
+ </g>
+</svg>

@@ -1,0 +1,37 @@
+﻿{
+	"languageTag": "en-US",
+	"fileDescription": "Strings for MyCustomPlugin.",
+	"text": {
+		"plugins": {
+			"valerypopoffaudiofromurl": {
+				"name": "Valerypopoff Audio From URL",
+				"description": "Extend system Audio plugin with the ability to play audio from URL.",
+				"help-url": "http://valerypopoff.ru/construct/audio-from-url-plugin",
+				"properties": {
+
+				},
+				"aceCategories": {
+					"custom": "Custom"
+				},
+				"conditions": {
+
+				},
+				"actions": {
+					"set-url": {
+						"list-name": "Set URL",
+						"display-text": "Set URL to {0}",
+						"description": "Load music and audio from the specified URL. If URL is already set, it will be replaced. Action will not affect files with names starting with '_'",
+						"params":
+						{
+							"url": 
+							{ "name": "URL", "desc": "URL to set."}
+						}						
+					}
+				},
+				"expressions": {
+
+				}
+			}
+		}
+	}
+}
